@@ -1,0 +1,14 @@
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\bin\Debug\Principal.exe.config
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.csproj.AssemblyReference.cache
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.Principal.resources
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.csproj.GenerateResource.cache
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.exe
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.pdb
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.Exercicio1.resources
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.Exercicio2.resources
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.Exercicio3.resources
+C:\Users\Ota\Desktop\Documentos\Escola\Principal\Principal\obj\Debug\Principal.Exercicio4.resources
